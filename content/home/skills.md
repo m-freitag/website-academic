@@ -24,13 +24,13 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "Causal Inference"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "arrow-right"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]

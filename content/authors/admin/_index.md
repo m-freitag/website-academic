@@ -46,10 +46,11 @@ social:
   link: mailto:markus.freitag@campus.lmu.de
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/MarkusGFreita
+  link: https://twitter.com/MarkusGFreitag
 - icon: github
   icon_pack: fab
   link: https://github.com/m-freitag
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am currently a M.A. Student at the Geschwister-Scholl-Institut of Political Science (LMU Munich) and Research Assistant at the Chair of Empirical Political Research and Policy Analysis. 
+Welcome! I am currently a M.A. Student at the Geschwister-Scholl-Institut of Political Science (LMU Munich) and a Research Assistant at the Chair of Empirical Political Research and Policy Analysis. 
 
-My research interests include political behaviour, political economy and preference formation. Further, I have a strong interest in statistical methodology, causal inference (especially causal graphs) and statistical programming with R and Julia. I taught M.A.-level lab sessions and TA'd at the ECPR Winter School in Methods and Techniques. 
+My research interests include political behaviour, political economy and preference formation. Further, I have a strong interest in statistical methodology, causal inference (especially causal graphs) and statistical programming with R and Julia. I taught M.A.-level lab sessions and assisted with teaching at the ECPR Winter School in Methods and Techniques. 
