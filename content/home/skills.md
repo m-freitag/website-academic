@@ -27,8 +27,8 @@ subtitle = ""
 
   
 [[feature]]
-  icon = "long-arrow-right"
-  icon_pack = "fas"
+  icon = "long-arrow-alt-right"
+  icon_pack = "fab"
   name = "Causal Inference"
 
 
