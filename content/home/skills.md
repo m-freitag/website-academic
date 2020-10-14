@@ -18,8 +18,8 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
-  
+
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
@@ -27,9 +27,9 @@ subtitle = ""
 
   
 [[feature]]
-  icon = "Causal Inference"
-  icon_pack = "fas"
-  name = "arrow-right"
+  icon = "long-arrow-alt-right"
+  icon_pack = "fab"
+  name = "Causal Inference"
 
 
 # Uncomment to use emoji icons.
