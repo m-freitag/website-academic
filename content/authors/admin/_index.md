@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: M.A. Student/ Research Assistant
+role: M.A. Student/Research Assistant
 
 # Organizations/Affiliations
 organizations:
