@@ -27,8 +27,8 @@ subtitle = ""
 
   
 [[feature]]
-  icon = "arrow-right"
-  icon_pack = "fas"
+  icon = "dag"
+  icon_pack = "costum"
   name = "Causal Inference"
 
 
