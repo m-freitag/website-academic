@@ -2,7 +2,7 @@
 name = "my_font"
 
 # Optional Google font URL
-google_fonts = "IBM Plex Sans:400,700"
+google_fonts = "family=IBM+Plex+Sans:wght@400;700"
 
 # Font families
 heading_font = "IBM Plex Sans"
