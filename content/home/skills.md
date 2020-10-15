@@ -28,7 +28,7 @@ subtitle = ""
   
 [[feature]]
   icon = "dag"
-  icon_pack = "costum"
+  icon_pack = "custom"
   name = "Causal Inference"
 
 
