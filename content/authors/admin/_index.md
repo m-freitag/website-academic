@@ -18,7 +18,7 @@ organizations:
   url: "https://www.uni-muenchen.de/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable # #matter.
 
 interests:
 - Statistics, Causal Inference
