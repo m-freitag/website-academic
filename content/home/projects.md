@@ -28,6 +28,9 @@ subtitle = ""
   [[content.filter_button]]
     name = "Methods Projects"
     
+  
+  [[content.filter_button]]
+    name = "Other"
     
 
 [design]
