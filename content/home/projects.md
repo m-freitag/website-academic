@@ -75,3 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
+Einstellungen zu Waffenhandel in Deutschland und Frankreich - A Conjoint Experiment on the Comparative Legitimacy of Arms Exports in Germany and France (PIs: P. Thurner and L. Rudolph)
