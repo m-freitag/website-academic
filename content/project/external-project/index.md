@@ -1,6 +1,6 @@
 ---
 title: A Conjoint Experiment on the Comparative Legitimacy of Arms Exports in Germany and France
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Project granted by the German Foundation for Peace Research/Deutsche Stiftung Friedensforschung (PIs: [P. Thurner](https://www.en.gsi.uni-muenchen.de/people/professors/thurner/index.html) and [L. Rudolph](https://www.lukas-rudolph.com/).
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"
