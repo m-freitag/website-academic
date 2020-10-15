@@ -8,13 +8,12 @@
     color: #425664;
   }
   
-<h2 class='person-title'>
-  {{ $person_page.Title }}
-</h2>
-
- .person-title {
+.portrait-title h2 {
+    font-size: 1.75em;
+    font-weight: 300;
     color: #425664;
-  }
+    margin: 20px 0 10px;
+}
 
  
   @-webkit-keyframes slide-from-right {
