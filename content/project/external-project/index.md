@@ -1,6 +1,6 @@
 ---
 title: A Conjoint Experiment on the Comparative Legitimacy of Arms Exports in Germany and France
-summary: Project granted by the German Foundation for Peace Research.
+summary: Project granted by the German Foundation for Peace Research [P.Thurner](https://www.en.gsi.uni-muenchen.de/people/professors/thurner/index.html).
 tags:
 date: "2016-04-27T00:00:00Z"
 
