@@ -8,9 +8,9 @@
     color: #425664;
   }
   
-<div class='person-title'>
+<h2 class='person-title'>
   {{ $person_page.Title }}
-</div>
+</h2>
 
  .person-title {
     color: #425664;
