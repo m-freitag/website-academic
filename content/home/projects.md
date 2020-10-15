@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -21,15 +21,25 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
   
+<<<<<<< HEAD
   [[content.filter_button]]
     name = "Methods Projects"
     tag = "Methods"
   
 
+=======
+  # [[content.filter_button]]
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
+  
+  # [[content.filter_button]]
+  #   name = "Other"
+  #   tag = "Demo"
+>>>>>>> parent of ce93adf... d
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -72,4 +82,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+## [A Conjoint Experiment on the Comparative Legitimacy of Arms Exports in Germany and France](https://www.gsi.uni-muenchen.de/lehreinheiten/le_policy_analysis/forschung/conjoint1/index.html)
+
 
