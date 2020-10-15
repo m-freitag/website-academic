@@ -58,15 +58,16 @@
   
   .interests-div {
     opacity: 0;
+    color: #425664;
     -webkit-animation: fade-in 1s forwards;
             animation: fade-in 1s forwards;
     -webkit-animation-delay: 1s;
-            animation-delay: 1s;
-    color: #425664;	
+            animation-delay: 1s;	
   }
   
   .education-div {
     opacity: 0;
+    color: #425664;
     -webkit-animation: fade-in 1s forwards;
             animation: fade-in 1s forwards;
     -webkit-animation-delay: 1.5s;
