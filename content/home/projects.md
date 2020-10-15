@@ -75,6 +75,6 @@ subtitle = ""
  css_class = ""
 +++
 
-## [A Conjoint Experiment on the Comparative Legitimacy of Arms Exports in Germany and France (PIs: P. Thurner and L. Rudolph)](https://www.gsi.uni-muenchen.de/lehreinheiten/le_policy_analysis/forschung/conjoint1/index.html)
+## [A Conjoint Experiment on the Comparative Legitimacy of Arms Exports in Germany and France](https://www.gsi.uni-muenchen.de/lehreinheiten/le_policy_analysis/forschung/conjoint1/index.html)
 
 
