@@ -8,15 +8,14 @@
     color: #425664;
   }
   
+<div class='person-title'>
+  {{ $person_page.Title }}
+</div>
 
-
-<div class="portrait-title">
-  <h2 itemprop="name">{{ $.Site.Params.name }}</h2>
- {{ with $.Site.Params.role }}<h3 itemprop="jobTitle">{{ . }}</h3>{{ end }}
-
-  .portrait-title {
+ .person-title {
     color: #425664;
   }
+
  
   @-webkit-keyframes slide-from-right {
     0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
