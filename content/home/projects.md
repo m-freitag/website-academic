@@ -25,21 +25,10 @@ subtitle = ""
   #   name = "All"
   #   tag = "*"
   
-<<<<<<< HEAD
   [[content.filter_button]]
     name = "Methods Projects"
     tag = "Methods"
   
-
-=======
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-  
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
->>>>>>> parent of ce93adf... d
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
