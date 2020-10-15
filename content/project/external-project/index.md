@@ -1,6 +1,6 @@
 ---
 title: A Conjoint Experiment on the Comparative Legitimacy of Arms Exports in Germany and France
-summary:
+summary: Project granted by the German Foundation for Peace Research (PIs: P. Thurner and L. Rudolph).
 tags:
 date: "2016-04-27T00:00:00Z"
 
