@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "julia"
+  icon = "soft"
   icon_pack = "custom"
-  name = "Julia"
+  name = "R & Julia"
 
 
 [[feature]]
