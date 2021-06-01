@@ -8,7 +8,7 @@ authors:
 - Julian Schuessler
 - Markus Freitag
 
-date: "2020-16-12"
+publishDate: "2020-16-12"
 
 
 # Publication type.
