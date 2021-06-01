@@ -3,6 +3,7 @@ title: "An example conference paper"
 authors:
 - Lukas Rudolph
 - admin
+- Paul W. Thurner
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
