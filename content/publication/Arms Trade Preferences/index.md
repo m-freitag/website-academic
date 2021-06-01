@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "The Comparative Legitimacy of Arms Exports - A Conjoint Experiment in Germany and France"
 authors:
 - Lukas Rudolph
 - admin
