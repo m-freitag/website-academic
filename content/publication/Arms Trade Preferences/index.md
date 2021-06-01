@@ -20,10 +20,10 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Despite fierce politicization.
+abstract: Despite fierce politicization and heated public debates in arms-exporting democracies, systematic research on mass public preferences on arms trade is lacking. Combining political economy models of arms trade with the literatures on trade preferences and foreign policy attitudes, we argue that citizens trade off economic incentives, strategic interests and moral considerations when assessing arms exports and that deeply rooted `strategic cultures’ lead to differences in citizen preferences between countries. To derive the implicit weighting of different features of arms exports, we draw on population-representative conjoint survey experiments (N=6,617), fielded in November/December 2020 in two of the global top-5 exporting countries of major arms: Germany and France. We find that both country populations show structured preferences towards arms exports which predominantly center around their moral repercussions. However, German respondents place more weight on moral consequences and, compared to French respondents, a larger share is in fundamental opposition. We thereby show that differences in elite-level strategic cultures correspond to differences in population-level preference structures. We conclude that these diverging preferences potentially conflict with an ambitious common European defense and security policy. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
 - Source Themes
