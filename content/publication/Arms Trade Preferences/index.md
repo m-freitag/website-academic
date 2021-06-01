@@ -1,5 +1,5 @@
 ---
-title: "The Comparative Legitimacy of Arms Exports - A Conjoint Experiment in Germany and France"
+title: "The Comparative Legitimacy of Arms Exports"
 authors:
 - Lukas Rudolph
 - admin
