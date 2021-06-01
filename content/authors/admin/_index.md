@@ -72,4 +72,4 @@ user_groups:
 
 Welcome! I am currently a Predoctoral Fellow at the Chair of Empirical Political Research and Policy Analysis at the Geschwister-Scholl-Institut of Political Science (LMU Munich). 
 
-My research interests include political behaviour, political economy, discrimination, and preference formation. Further, I have a strong interest in statistical methodology, causal inference (especially causal graphs) and statistical programming with R and Julia. I taught M.A.-level lab sessions and assisted with teaching at the 2020 ECPR Winter School in Methods and Techniques. 
+My research interests include political behaviour, political economy, discrimination, and preference formation. Further, I have a strong interest in statistical methodology, causal inference (especially causal graphs) and statistical programming with R and Julia. I taught M.A.-level lab sessions and assisted with teaching at the 2020 ECPR Winter School in Methods and Techniques. This term, I will teach an [intro to programming with R](https://m-freitag.github.io/intro-r-polsci/).  
