@@ -25,7 +25,7 @@ interests:
 - Political Economy, Discrimination
 - Experiments, Survey Experiments
 
-education and recent work:
+education:
   courses:
   - course: M.A. in Political Science
     institution: LMU Munich
@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am soon taking on a data science job in the pharmaceutical industry. Previously, I was a Research Fellow at the Chair of Empirical Political Research and Policy Analysis at the Geschwister-Scholl-Institut of Political Science (LMU Munich). I will continue some of my academic projects and teaching in my spare time.
+Welcome! I will soon be starting a data science job in the pharmaceutical industry. Previously, I was a Research Fellow at the Chair of Empirical Political Research and Policy Analysis at the Geschwister-Scholl-Institut of Political Science (LMU Munich). I will continue some of my academic projects and teaching in my spare time.
 
 I have a strong interest in statistical methodology, causal inference (especially causal graphs) and statistical programming with R and Julia. Furthermore, my research interests include political behaviour, political economy, and discrimination. I taught M.A.-level lab sessions and assisted with teaching at the 2020 ECPR Winter School in Methods and Techniques. 
 
