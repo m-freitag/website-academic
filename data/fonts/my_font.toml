@@ -2,13 +2,13 @@
 name = "my_font"
 
 # Optional Google font URL
-google_fonts = "family=IBM+Plex+Sans:wght@400;700"
+google_fonts = "family=Quicksand:wght@400;600"
 
 # Font families
-heading_font = "IBM Plex Sans"
-body_font = "IBM Plex Sans"
-nav_font = "IBM Plex Sans"
-mono_font = "IBM Plex Sans"
+heading_font = "Quicksand"
+body_font = "Quicksand"
+nav_font = "Quicksand"
+mono_font = "Quicksand"
 
 # Font size
 font_size = "20"
