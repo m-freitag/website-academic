@@ -27,9 +27,9 @@ interests:
 
 education:
   job:
-  - job: M.A. in Political Science
+  - job: Research Fellow 
     institution: LMU Munich
-    year: 2/2021
+    year: 4/2021 to 7/2021
   courses:
   - course: M.A. in Political Science
     institution: LMU Munich
