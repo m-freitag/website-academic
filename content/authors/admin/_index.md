@@ -29,7 +29,7 @@ education:
   courses:
    - course: Research Fellow/Lecturer
     institution: LMU Munich
-    year: until 7/2021
+    year: 7/2021
   - course: M.A. in Political Science
     institution: LMU Munich
     year: 2/2021
