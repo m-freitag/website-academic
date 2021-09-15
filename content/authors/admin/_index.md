@@ -34,7 +34,7 @@ education:
     institution: LMU Munich
     year: 7/2018
 
-experience:
+education:
   courses:
   - course: 'Research Fellow'
     institution: 'LMU Munich'
