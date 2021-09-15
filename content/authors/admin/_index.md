@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:markus.freitag@campus.lmu.de
+  link: mailto:freitagmarkus@outlook.de
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MarkusGFreitag
