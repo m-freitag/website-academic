@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-   - course: Research Fellow/Lecturer
+   - course: Research Fellow
     institution: LMU Munich
-    year: 4/2021-7/2021
+    year: 4/2021 - 7/2021
   - course: M.A. in Political Science
     institution: LMU Munich
     year: 2/2021
