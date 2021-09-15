@@ -22,15 +22,14 @@ organizations:
 
 interests:
 - Statistics, Causal Inference
-- Political Behavior
 - Political Economy, Discrimination
-- Survey Methodology, Survey Experiments, Choice Modelling
+- Experiments, Survey Experiments
 
-education:
+education and recent work:
   courses:
   - course: M.A. in Political Science
     institution: LMU Munich
-    year: 3/2021
+    year: 2/2021
   - course:  B.A. in Political Science
     institution: LMU Munich
     year: 7/2018
