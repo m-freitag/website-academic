@@ -27,7 +27,7 @@ interests:
 
 education:
   job:
-  - course: M.A. in Political Science
+  - job: M.A. in Political Science
     institution: LMU Munich
     year: 2/2021
   courses:
