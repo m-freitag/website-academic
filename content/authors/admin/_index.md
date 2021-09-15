@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Junior Data Analyst
+role: Predoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
- - name: FUTRUE
- url: "https://futrue.com/"
+- name: LMU Munich
+  url: "https://www.uni-muenchen.de/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable # #matter.
@@ -25,7 +25,7 @@ interests:
 - Political Economy, Discrimination
 - Experiments, Survey Experiments
 
-education:
+education and recent work:
   courses:
   - course: M.A. in Political Science
     institution: LMU Munich
@@ -35,7 +35,6 @@ education:
     year: 7/2018
 
 
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -43,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:freitagmarkus@outlook.de
+  link: mailto:markus.freitag@campus.lmu.de
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MarkusGFreitag
