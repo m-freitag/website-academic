@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Predoctoral Fellow
+role: Junior Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: LMU Munich
-  url: "https://www.uni-muenchen.de/index.html"
+ - name: FUTRUE
+ url: "https://futrue.com/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable # #matter.
@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome! I am currently a Predoctoral Fellow at the Chair of Empirical Political Research and Policy Analysis at the Geschwister-Scholl-Institut of Political Science (LMU Munich). 
+Welcome! I am soon taking on a data science job in the pharmaceutical industry. Previously, I was a Research Fellow at the Chair of Empirical Political Research and Policy Analysis at the Geschwister-Scholl-Institut of Political Science (LMU Munich). I will continue some of my academic projects and teaching in my spare time.
 
-My research interests include political behaviour, political economy, discrimination, and preference formation. Further, I have a strong interest in statistical methodology, causal inference (especially causal graphs) and statistical programming with R and Julia. I taught M.A.-level lab sessions and assisted with teaching at the 2020 ECPR Winter School in Methods and Techniques. This term, I will teach an [<span style="color:#644155">intro to programming with R</span>](https://m-freitag.github.io/intro-r-polsci/).  
+I have a strong interest in statistical methodology, causal inference (especially causal graphs) and statistical programming with R and Julia. Furthermore, my research interests include political behaviour, political economy, and discrimination. I taught M.A.-level lab sessions and assisted with teaching at the 2020 ECPR Winter School in Methods and Techniques. In summer 2021, I taught an [<span style="color:#644155">intro to programming with R</span>](https://m-freitag.github.io/intro-r-polsci/).  
