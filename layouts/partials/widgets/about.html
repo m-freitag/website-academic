@@ -89,9 +89,9 @@
       </div>
       {{ end }}
 
-      {{ with $person.education }}
+      {{ with $person.experience }}
       <div class="education-div col-md-7">
-        <h3>{{ i18n "Education \& Experience" | markdownify }}</h3>
+        <h3>{{ i18n "experience and education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
           <li>

@@ -35,9 +35,16 @@ education:
     year: 7/2018
 
 experience:
-  - title: 'Research Fellow'
-    company: 'LMU Munich'
-    date_start: '4/2021 - 7/2021'
+  courses:
+  - course: 'Research Fellow'
+    institution: 'LMU Munich'
+    year: '4/2021 - 7/2021'
+  - course: M.A. in Political Science
+    institution: LMU Munich
+    year: 2/2021
+  - course:  B.A. in Political Science
+    institution: LMU Munich
+    year: 7/2018  
 
 
 # Social/Academic Networking
