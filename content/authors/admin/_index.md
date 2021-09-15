@@ -25,7 +25,7 @@ interests:
 - Political Economy, Discrimination
 - Experiments, Survey Experiments
 
-education and recent work:
+education:
   courses:
   - course: M.A. in Political Science
     institution: LMU Munich
@@ -33,6 +33,11 @@ education and recent work:
   - course:  B.A. in Political Science
     institution: LMU Munich
     year: 7/2018
+
+experience:
+  - title: 'Research Fellow'
+    company: 'LMU Munich'
+    date_start: '4/2021 - 7/2021'
 
 
 # Social/Academic Networking
